@@ -5,3 +5,7 @@
 ```bash
 dotnet tool install -g Microsoft.dotnet-httprepl
 ```
+## Run HttpRepl Tool
+```bash
+httprepl http://localhost:5000
+```
